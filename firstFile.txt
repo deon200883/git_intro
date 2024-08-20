@@ -1,0 +1,3 @@
+cd / is to move to backward
+cd ./ is to move forward
+cd ../ is to move a level backward 
